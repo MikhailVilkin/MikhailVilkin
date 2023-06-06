@@ -10,6 +10,8 @@ I've been learning programming for 9 years. Tried myself into many technologies.
 * ✉️  You can contact me at [mikhail.vilkin8@gmail.com](mailto:mikhail.vilkin8@gmail.com)
 * ⚡  CS:GO player :)
 
+![Leetcode Stats](https://leetcode.com/MikhailVilkin)
+
 <a href="https://www.github.com/MikhailVilkin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MikhailVilkin?logo=github&style=for-the-badge&color=ec4899&labelColor=831843" /></a><a href="https://www.twitter.com/vilkinmikhail" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vilkinmikhail?logo=twitter&style=for-the-badge&color=ec4899&labelColor=831843"

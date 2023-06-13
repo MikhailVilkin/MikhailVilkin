@@ -8,7 +8,6 @@ I've been learning programming for 9 years. Tried myself into many technologies.
 
 * 🌍  I'm based in Batumi, Georgia (country)
 * ✉️  You can contact me at [mikhail.vilkin8@gmail.com](mailto:mikhail.vilkin8@gmail.com)
-* ⚡  CS:GO player :)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MikhailVilkin)
 

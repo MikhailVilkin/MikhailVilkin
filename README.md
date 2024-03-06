@@ -9,7 +9,6 @@ I've been learning programming for 9 years. Tried myself into many technologies.
 * 🌍  I'm based in Batumi, Georgia (country)
 * ✉️  You can contact me at [mikhail.vilkin8@gmail.com](mailto:mikhail.vilkin8@gmail.com)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/MikhailVilkin)
 
 <a href="https://www.github.com/MikhailVilkin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MikhailVilkin?logo=github&style=for-the-badge&color=ec4899&labelColor=831843" /></a><a href="https://www.twitter.com/vilkinmikhail" target="_blank" rel="noreferrer"><img
